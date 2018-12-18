@@ -6,6 +6,7 @@ Which implements page object model for making it more modular and maintainable
 The Project contains 3 python packages
 
 commons:
+
 Which contains common stuff like utils, config files
 
 pages:
