@@ -1,7 +1,7 @@
 # AndroidAutomationPython
 Android mobile app automation using Appium and Python with simple unit test framework. 
 Which implements page object model for making it more modular and maintainable
-
+--------------------------------------------------------------------------------------------------
 
 The Project contains 3 python packages
 
@@ -16,6 +16,8 @@ and a page setup which does some initialization stuff
 tests:
 
 tests package contains all the test case files and test runner.
+
+--------------------------------------------------------------------------------------------------
 
 How to Run the tests:
 
